@@ -13,10 +13,10 @@ public class WelcomeGui extends JFrame {
 
     public WelcomeGui() {
         // Set the title of the frame
-        setTitle("Memory gui.Game - Flipping Tiles");
+        setTitle("Memory Game - Flipping Tiles");
 
         // Create a welcome header label
-        JLabel welcomeLabel = new JLabel("Welcome to Memory gui.Game!");
+        JLabel welcomeLabel = new JLabel("Welcome to Memory Game!");
         welcomeLabel.setFont(new Font("Arial", Font.BOLD, 24));
         welcomeLabel.setBounds(50, 50, 350, 50); // Set bounds for the label
 
