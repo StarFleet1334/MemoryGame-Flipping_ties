@@ -27,7 +27,7 @@ public class GameGui extends JFrame {
 
         // Set frame properties
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        setSize(800, 800); // Set the frame size to 600x600
+        setSize(800, 600); // Set the frame size to 600x600z
         setLocationRelativeTo(null); // Center the frame
         setVisible(true);
         setResizable(false);
